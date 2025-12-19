@@ -13,7 +13,7 @@ const otherNumber = 1123.8966
 console.log(otherNumber.toPrecision(4)) // Very Important
 
 const hundreds = 1000000
-console.log(hundreds.toLocaleString())  //1,000,000
+console.log(hundreds.toLocaleString())  //1,000,000 Convert it in american standard
 */
 
 /// +++++++++++++++++++++ Maths +++++++++++++++
